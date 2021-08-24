@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "503257649933",
+    "project_id": "payflow-2fbdf",
+    "storage_bucket": "payflow-2fbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503257649933:android:64ddd44b38a711a3cf9644",
+        "android_client_info": {
+          "package_name": "com.felipe.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503257649933-3u8h7on0vjkkjtgr120aibfsq83d1ll2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.felipe.payflow",
+            "certificate_hash": "698409217b0bb1792bb1d59e3f4c892583f0500b"
+          }
+        },
+        {
+          "client_id": "503257649933-b6h2fbq4pm6ujm37579han4c6su28emf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWJJmcTlA7NmdYxFPIaphkQ2UReiQSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503257649933-b6h2fbq4pm6ujm37579han4c6su28emf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "503257649933-6vo72907kkq1256n6lfcehaecpsikd4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.felipe.payflow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
